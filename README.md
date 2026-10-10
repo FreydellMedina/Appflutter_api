@@ -1,8 +1,11 @@
-# LRC Finder (Flutter & LRCLIB Clean Architecture)
+# LRC Finder 
+Una app realizada en flutter, con la estructura de feature-first.
 
-Consumo de API lrclib.net con Clean Architecture.
+Integrantes: 
+Freydell Medina Arrieta
+Emmanuel Salas 
+Santiago Sarria
 
-```bash
-flutter pub get
-flutter run
-```
+
+Consumo de API lrclib.net
+
